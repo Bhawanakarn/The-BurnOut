@@ -1,0 +1,1 @@
+gradient.html uses  frakencolortheif.js to change the background gradient based on the album art
