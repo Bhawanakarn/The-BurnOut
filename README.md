@@ -1,13 +1,15 @@
 # The-BurnOut
 This is a website for people who loves songs/music.
 It recommends and plays the songs based on user's search or interest.
-
+The program is based on SpotifyAPI which is further integrated with PostgreSQL and NodeJS
 
 This is a group project done by four active people.
 
+
 Members: Bhawana, Sid, Christopher, and Rajesh
+
 
 Group Name: The BurnOut
 Project Name: Stereotype
 
-The program is based on SpotifyAPI which is further integrated with PostgreSQL and NodeJS
+
