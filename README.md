@@ -9,7 +9,7 @@ This is a group project done by four active people.
 
 #Members: Bhawana, Sid, Christopher, and Rajesh
 
-##Group Name: _The BurnOut_<br>
-##Project Name: _Stereotype_<br>
+**Group Name: _The BurnOut_<br>
+Project Name: _Stereotype_**<br>
 
 
